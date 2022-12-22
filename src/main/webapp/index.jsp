@@ -18,5 +18,6 @@
   </head>
   <body>
     <h1>Hi, This is for testing CI/CD</h1>
+    <h2>we're integrating git, maven, tomcat on jenkins</h2>
   </body>
 </html>
