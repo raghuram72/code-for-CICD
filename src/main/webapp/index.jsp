@@ -11,12 +11,12 @@
         height: 100vh;
         color: white;
         justify-content: center;
-        align-items: center;
+        text-align: center;
       }
     </style>
   </head>
   <body>
     <h1>Hi, This is for testing CI/CD</h1>
-    <h2> adding ansible tomcat </h2>
+    <h2> Adding ansible playbook to deploy on slave's tomcat server</h2>
   </body>
 </html>
