@@ -10,7 +10,6 @@
         margin: 0;
         height: 100vh;
         color: white;
-        display: flex;
         justify-content: center;
         align-items: center;
       }
@@ -18,5 +17,6 @@
   </head>
   <body>
     <h1>Hi, This is for testing CI/CD</h1>
+    <h2> adding ansible tomcat </h2>
   </body>
 </html>
