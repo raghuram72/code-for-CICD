@@ -29,7 +29,6 @@
 	
 	<distributionManagement>
     		<snapshotRepository>
-		   <version>0.0.1-SNAPSHOT</version>
       		   <id>nexus-snapshots</id>
       		   <url>http://18.234.107.120:8081/repository/maven-snapshots/</url>
     		</snapshotRepository>
