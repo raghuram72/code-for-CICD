@@ -28,15 +28,15 @@
 	</dependencies>
 	
 	<distributionManagement>
-    <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://52.91.157.25:8081/repository/sample-releases/</url>
-    </snapshotRepository>
-    <repository>
-      <id>nexus-releases</id>
-      <url>http://52.91.157.25:8081/repository/sample-releases/</url>
-    </repository>
-  </distributionManagement>
+    		<snapshotRepository>
+      		   <id>nexus-snapshots</id>
+      			<url>http://18.234.107.120:8081/repository/maven-snapshots/</url>
+    		</snapshotRepository>
+   		<repository>
+    		  <id>nexus-releases</id>
+    		  <url>http://your-host:8081/repository/maven-releases/</url>
+    		</repository>
+  	</distributionManagement>
 	
 	<pluginRepositories>
 	    <pluginRepository>    
