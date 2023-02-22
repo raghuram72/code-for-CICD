@@ -9,7 +9,7 @@
         padding: 0 24px;
         margin: 0;
         height: 100vh;
-        color: white;
+        color: black;
         justify-content: center;
         text-align: center;
       }
